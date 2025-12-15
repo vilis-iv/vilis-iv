@@ -50,17 +50,15 @@
 
 <br/>
 
-<p>
-  <strong>GitHub Stats</strong>
-</p>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats</h3>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilis-iv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
+<!-- <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vilis-iv&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <br/>
 
