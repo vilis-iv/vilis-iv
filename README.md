@@ -28,7 +28,7 @@
   </em>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<hr/>
 
 <h3>What I do</h3>
 <ul>
@@ -60,7 +60,7 @@
   <li>Systems that fail gracefully instead of catastrophically</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<hr/>
 
 <h3 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
@@ -75,12 +75,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vilis-iv&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <hr/> -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<hr/>
 
 <h3>Find me here</h3>
+<div>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+</div>
 
-<p>
+  <p>
   <a href="https://www.linkedin.com/in/pramudiaputr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF71CE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
