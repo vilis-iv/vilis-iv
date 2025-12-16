@@ -19,52 +19,66 @@
 
 <br/>
 
-<p>
-  <strong>Hello, I'm Pram</strong>
-</p>
+<h2>Hello, I'm Pram 👋</h2>
 
 <p>
   <em>
-    Backend engineer building microservice-based systems. I like things decoupled, observable, and preferably not on fire.
+    Backend engineer focused on building resilient, scalable, and observable microservice-based systems.
+    I enjoy designing clean architectures, solving distributed problems, and keeping production calm and not on fire.
   </em>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+<h3>What I do</h3>
 <ul>
   <li>
     <img src="https://img.shields.io/badge/Microservices-555?style=flat-square&logo=dependabot&logoColor=white" />
-    Design and implement backend services
+    Design and implement backend services with clear boundaries and ownership
   </li>
   <li>
     <img src="https://img.shields.io/badge/Kafka-555?style=flat-square&logo=apachekafka&logoColor=white" />
-    Event-driven communication
+    Build event-driven systems for loose coupling and scalability
   </li>
   <li>
     <img src="https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white" />
-    Containerized delivery
+    Ship services using containerized workflows
   </li>
   <li>
     <img src="https://img.shields.io/badge/Kubernetes-555?style=flat-square&logo=kubernetes&logoColor=white" />
-    Growing DevOps skills
+    Continuously improving DevOps and platform engineering skills
   </li>
 </ul>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats</h3>
+<h3>What I care about</h3>
+
+<ul>
+  <li>Clean service boundaries and simple contracts</li>
+  <li>Observability: logs, metrics, traces — no blind deployments</li>
+  <li>Systems that fail gracefully instead of catastrophically</li>
+</ul>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  GitHub Stats
+</h3>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilis-iv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vilis-iv&theme=tokyonight&hide_border=true" />
-</p> -->
-
-<br/>
-
 <p>
-  <strong>Find me here</strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vilis-iv&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- <hr/> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+<h3>Find me here</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/pramudiaputr/" target="_blank">
